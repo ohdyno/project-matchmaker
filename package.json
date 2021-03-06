@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ohdyno/project-matchmaker/issues"
   },
-  "homepage": "https://github.com/ohdyno/project-matchmaker#readme"
+  "homepage": "https://github.com/ohdyno/project-matchmaker#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.5.0"
+  }
 }
